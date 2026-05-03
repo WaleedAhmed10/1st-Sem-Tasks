@@ -1,0 +1,3 @@
+﻿  WAR.cpp
+C:\Users\walee\source\repos\Function\Function\WAR.cpp(56,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Function.vcxproj -> C:\Users\walee\source\repos\Function\x64\Debug\Function.exe

@@ -1,0 +1,3 @@
+﻿  Functional Overloading.cpp
+C:\Users\walee\source\repos\Pointers\Pointers\Functional Overloading.cpp(26,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Pointers.vcxproj -> C:\Users\walee\source\repos\Pointers\x64\Debug\Pointers.exe
