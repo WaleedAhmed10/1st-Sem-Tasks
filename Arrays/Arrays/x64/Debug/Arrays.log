@@ -1,0 +1,4 @@
+﻿  String Arrays.cpp
+C:\Users\walee\source\repos\Arrays\Arrays\String Arrays.cpp(35,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walee\source\repos\Arrays\Arrays\String Arrays.cpp(41,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Arrays.vcxproj -> C:\Users\walee\source\repos\Arrays\x64\Debug\Arrays.exe

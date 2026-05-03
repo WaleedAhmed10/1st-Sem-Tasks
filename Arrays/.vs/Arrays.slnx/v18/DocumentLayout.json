@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED625B8-79CC-455B-B898-53ACF96D4D2A}|Arrays\\Arrays.vcxproj|C:\\Users\\walee\\source\\repos\\Arrays\\Arrays\\String Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5ED625B8-79CC-455B-B898-53ACF96D4D2A}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\String Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "String Arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\Arrays\\Arrays\\String Arrays.cpp",
+              "RelativeDocumentMoniker": "Arrays\\String Arrays.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\Arrays\\Arrays\\String Arrays.cpp",
+              "RelativeToolTip": "Arrays\\String Arrays.cpp",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAcwLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T11:00:40.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
