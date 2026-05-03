@@ -1,0 +1,5 @@
+﻿  Arrays.cpp
+C:\Users\walee\source\repos\Recursion and Arrays\Recursion and Arrays\Arrays.cpp(66,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walee\source\repos\Recursion and Arrays\Recursion and Arrays\Arrays.cpp(220,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walee\source\repos\Recursion and Arrays\Recursion and Arrays\Arrays.cpp(246,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Recursion and Arrays.vcxproj -> C:\Users\walee\source\repos\Recursion and Arrays\x64\Debug\Recursion and Arrays.exe
